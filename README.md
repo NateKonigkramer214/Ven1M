@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ven1M
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in software development. 
 - 🌱 I’m currently learning Software development 
 - 📫 How to reach me on nathankonigkramer85@gmail.com
