@@ -1,6 +1,5 @@
-- Hi, I’m Nathan
-- I’m interested in software development. 
-- I’m currently learning Software development at techtorium
+- Hi, I’m Nathan Konigkramer
+- First year Software Engineering student at Techtorium NZIIT
 - How to reach me on nathankonigkramer85@gmail.com
 
 <!---
